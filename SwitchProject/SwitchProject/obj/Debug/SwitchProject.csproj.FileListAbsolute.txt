@@ -1,0 +1,7 @@
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\bin\Debug\SwitchProject.exe.config
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\bin\Debug\SwitchProject.exe
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\bin\Debug\SwitchProject.pdb
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\obj\Debug\SwitchProject.csprojAssemblyReference.cache
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\obj\Debug\SwitchProject.csproj.CoreCompileInputs.cache
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\obj\Debug\SwitchProject.exe
+C:\Users\sambl\Basic_C#_Programs\SwitchProject\SwitchProject\obj\Debug\SwitchProject.pdb
