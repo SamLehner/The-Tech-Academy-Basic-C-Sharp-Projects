@@ -14,6 +14,7 @@ namespace SwitchProject
             Console.WriteLine("What is the best number in the universe? ");
             int number = Convert.ToInt32(Console.ReadLine());
             bool universeNum = number == 72;
+            bool enjoy = false;
             
 
             // A do while loop to make sure the loop is ran once even if 72 is guessed. 
@@ -53,6 +54,23 @@ namespace SwitchProject
             {
                 Console.WriteLine("Congrats on finding the best number in the universe! ");
             }
+
+
+            while (!enjoy)
+            {
+                Console.WriteLine("Did you enjoy the program? Answer \"Y\" or \"N\":  ");
+                string answer = Console.ReadLine();
+                if (answer == "Y" || answer == "N")
+                {
+                    Console.WriteLine("Thank you for using my program!");
+                    enjoy = true;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input please try again! ");
+                }
+            }
+            
 
            
             Console.ReadLine();
