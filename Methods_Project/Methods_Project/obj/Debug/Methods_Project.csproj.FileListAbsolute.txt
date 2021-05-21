@@ -1,0 +1,7 @@
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\bin\Debug\Methods_Project.exe.config
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\bin\Debug\Methods_Project.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\bin\Debug\Methods_Project.pdb
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\obj\Debug\Methods_Project.csprojAssemblyReference.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\obj\Debug\Methods_Project.csproj.CoreCompileInputs.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\obj\Debug\Methods_Project.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Project\Methods_Project\obj\Debug\Methods_Project.pdb
