@@ -1,0 +1,7 @@
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\obj\Debug\Method_and_Objects_Project.csprojAssemblyReference.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\obj\Debug\Method_and_Objects_Project.csproj.CoreCompileInputs.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\bin\Debug\Method_and_Objects_Project.exe.config
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\bin\Debug\Method_and_Objects_Project.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\bin\Debug\Method_and_Objects_Project.pdb
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\obj\Debug\Method_and_Objects_Project.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_and_Objects_Project\Method_and_Objects_Project\obj\Debug\Method_and_Objects_Project.pdb
