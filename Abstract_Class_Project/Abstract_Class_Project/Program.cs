@@ -15,6 +15,8 @@ namespace Abstract_Class_Project
 
             // Calling the SayName method thru the employee object we just created
             employee.SayName();
+
+            employee.Quit();
             Console.ReadLine();
         }
     }

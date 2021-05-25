@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Abstract_Class_Project
 {
     // Creating a CLass employee inheriting from our abstract class Person
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         // Creating a constructor for employee
         public Employee(string firstname, string lastname)
@@ -19,6 +19,11 @@ namespace Abstract_Class_Project
         public override void SayName()
         {
             Console.WriteLine(FirstName + " " + LastName);
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("You have quit the game");
         }
     }
 }
