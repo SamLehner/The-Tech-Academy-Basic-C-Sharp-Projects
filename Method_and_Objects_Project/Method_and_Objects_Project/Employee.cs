@@ -10,11 +10,23 @@ namespace Method_and_Objects_Project
     public class Employee : Person
     {
         // Adding a constructor for first anf last name
-        public Employee(string firstname, string lastname)
+        public Employee(string firstname, string lastname, int id)
         {
             FirstName = firstname;
             LastName = lastname;
+            Id = id;
         }
         public int Id { get; set; }
+
+        public static bool operator== (Employee employee, Employee employee1)
+        {
+            return employee.Id.Equals(employee1.Id);
+        }
+
+        public static bool operator !=(Employee employee, Employee employee1)
+        {
+            return !employee.Id.Equals(employee1.Id);
+        }
+
     }
 }
