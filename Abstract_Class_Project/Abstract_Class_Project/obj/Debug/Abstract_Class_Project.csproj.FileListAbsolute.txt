@@ -1,0 +1,7 @@
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\bin\Debug\Abstract_Class_Project.exe.config
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\bin\Debug\Abstract_Class_Project.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\bin\Debug\Abstract_Class_Project.pdb
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\obj\Debug\Abstract_Class_Project.csprojAssemblyReference.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\obj\Debug\Abstract_Class_Project.csproj.CoreCompileInputs.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\obj\Debug\Abstract_Class_Project.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Project\Abstract_Class_Project\obj\Debug\Abstract_Class_Project.pdb
