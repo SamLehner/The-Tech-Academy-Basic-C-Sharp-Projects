@@ -18,12 +18,14 @@ namespace Method_and_Objects_Project
         }
         public int Id { get; set; }
 
-        public static bool operator== (Employee employee, Employee employee1)
+
+
+        public static bool operator== (Employee employee, Employee employee1 )
         {
             return employee.Id.Equals(employee1.Id);
         }
 
-        public static bool operator !=(Employee employee, Employee employee1)
+        public static bool operator!= (Employee employee, Employee employee1)
         {
             return !employee.Id.Equals(employee1.Id);
         }
