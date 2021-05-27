@@ -10,11 +10,15 @@ namespace Abstract_Class_Project
     public class Employee : Person, IQuittable
     {
         // Creating a constructor for employee
-        public Employee(string firstname, string lastname)
+        public Employee(string firstname, string lastname, int id)
         {
             FirstName = firstname;
             LastName = lastname;
+            Id = id;
         }
+
+        // Creating an int for the ID
+        public int Id { get; set; }
         // Creating the method SayName from the inherited class Person
         public override void SayName()
         {
