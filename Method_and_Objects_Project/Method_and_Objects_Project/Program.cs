@@ -16,6 +16,9 @@ namespace Method_and_Objects_Project
             Employee employee1 = new Employee("Bungi", "Boyo", 2);
 
             bool eval = employee == employee1;
+
+
+
          
             Console.WriteLine(eval);
             // Calling the sayName method from person class since empolyee inherited it
