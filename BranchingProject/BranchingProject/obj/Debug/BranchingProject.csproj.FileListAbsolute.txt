@@ -1,0 +1,7 @@
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\obj\Debug\BranchingProject.csprojAssemblyReference.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\obj\Debug\BranchingProject.csproj.CoreCompileInputs.cache
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\bin\Debug\BranchingProject.exe.config
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\bin\Debug\BranchingProject.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\bin\Debug\BranchingProject.pdb
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\obj\Debug\BranchingProject.exe
+C:\Users\sambl\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingProject\BranchingProject\obj\Debug\BranchingProject.pdb
